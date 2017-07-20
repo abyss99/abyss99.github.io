@@ -2,12 +2,12 @@
 title: abyss
 email: your-email@domain.com
 baseurl: ""
-url: http://abyss99.github.com
+url: http://abyss99.github.com/
 
 markdown: kramdown
 kramdown:
   input: GFM
 
-disqus_shortname:
+disqus_shortname: abyss
 
 excerpt_separator: <!--description-->
