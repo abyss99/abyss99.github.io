@@ -1,0 +1,13 @@
+# Site settings
+title: abyss
+email: your-email@domain.com
+baseurl: ""
+url: http://abyss99.github.com
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+disqus_shortname:
+
+excerpt_separator: <!--description-->
